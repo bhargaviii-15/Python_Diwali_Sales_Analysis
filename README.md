@@ -28,5 +28,13 @@ Here are some of the top findings from the analysis:
    git clone https://github.com/bhargaviii-15/your-repo-name.git
    Move into the project directory:
    Launch Jupyter Notebook:
+----
+   ## 👨‍💻 Author
+**Bhargavi Y **
+📧 [bhargaviyogesh15@gmail.com]
+💼 [LinkedIn] https://www.linkedin.com/in/bhargavi-y-9a06a8322/ 
+🔗 [GitHub] (https://github.com/bhargaviii-15)
 
-   
+---
+
+
