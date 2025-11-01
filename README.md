@@ -20,8 +20,6 @@ Here are some of the top findings from the analysis:
 - Seasonal or geographic trends uncovered (for example, certain cities showing stronger sales growth).  
 - Suggestions for business strategy based on the data (e.g., stock allocation, targeted promotions).
 
-*(Feel free to expand this section with more detailed bullet points or charts from your notebook.)*
-
 ## 🎮 How to Run the Notebook  
 1. Clone the repository:  
    ```bash
